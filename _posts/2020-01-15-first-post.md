@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first Post
+author: Pascal Morgenthaler
 categories: [ travel, bali ]
 ---
 

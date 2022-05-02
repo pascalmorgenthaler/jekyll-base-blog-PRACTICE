@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My second Post
+author: Pascal Morgenthaler
 categories: [ travel, australia ]
 ---
 

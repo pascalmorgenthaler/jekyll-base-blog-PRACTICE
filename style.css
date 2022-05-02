@@ -10,3 +10,16 @@ section {
     padding: 5%;
     border: 2px solid gray;
 }
+
+.padded-1 {
+    padding: 1rem;
+}
+
+.padded {
+    padding: 5%;
+}
+
+.intro {
+    background-color: lightgray;
+    text-transform: uppercase;
+}

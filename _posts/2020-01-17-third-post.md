@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My third Post
+author: Juliana Schuler
 categories: [ self care, bali ]
 ---
 
