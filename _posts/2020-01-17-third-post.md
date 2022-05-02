@@ -1,8 +1,10 @@
 ---
 layout: post
 title: My third Post
+description: Post Description
 author: Juliana Schuler
 categories: [ self care, bali ]
+featured_image: https://source.unsplash.com/as398ORYK50
 ---
 
 ## Adventures in Bali

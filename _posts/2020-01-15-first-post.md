@@ -1,8 +1,10 @@
 ---
 layout: post
 title: My first Post
+description: Post Description
 author: Pascal Morgenthaler
 categories: [ travel, bali ]
+featured_image: https://source.unsplash.com/as398ORYK50
 ---
 
 ## Adventures in Bali
